@@ -1,6 +1,6 @@
 {
   "name": "nigelheap/trix-vue-wysiwyg",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description":
     "Wysiwyg editor as vue component using Basecamps's Trix editor",
   "main": "src/index.js",
