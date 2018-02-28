@@ -1,5 +1,5 @@
 {
-  "name": "@dymantic/trix-vue-wysiwyg",
+  "name": "nigelheap/trix-vue-wysiwyg",
   "version": "0.0.1",
   "description":
     "Wysiwyg editor as vue component using Basecamps's Trix editor",
